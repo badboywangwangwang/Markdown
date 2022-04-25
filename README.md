@@ -47,7 +47,9 @@
 三上|优|三弟
  ----------------------------------
 # 九、代码
+
 `create database hero;`
+
 (```)
     function fun(){
          echo "这是一句非常牛逼的代码";
@@ -55,4 +57,14 @@
     fun();
 (```)
  ----------------------------------
+# 十、流程图
+ ```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
  
