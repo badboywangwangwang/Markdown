@@ -49,8 +49,8 @@
 # 九、代码
 
 ```flow
-    function fun(){
-         echo "这是一句非常牛逼的代码";
-    }
-    fun();
+function fun(){
+   echo "这是一句非常牛逼的代码";
+ }
+fun();
 ```
