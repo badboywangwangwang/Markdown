@@ -25,7 +25,7 @@
 *****
  ----------------------------------
 五、图片
-![blockchain](https://github.com/badboywangwangwang/UpdateImage/blob/main/headsss.jpg)
+![blockchain](https://github.com/badboywangwangwang/UpdateImage/blob/main/img/head.jpg "头像")
  ----------------------------------
  ----------------------------------
  ----------------------------------
