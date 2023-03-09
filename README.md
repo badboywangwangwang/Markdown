@@ -28,7 +28,7 @@
 ![blockchain](https://github.com/badboywangwangwang/UpdateImage/blob/main/img/head.jpg "头像")
  ----------------------------------
 # 六、超链接
-
+$\color{red} {Red} $
 [百度](http://baidu.com)
  ----------------------------------
 # 七、列表
